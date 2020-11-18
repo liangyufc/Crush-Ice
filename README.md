@@ -16,4 +16,4 @@ Go to the folder with `crush_ice.py` and input board configuration file, ex. `te
 ```typescript
 $ python crush_ice.py
 ```
-[Link to Project Description](https://www.notion.so/liangyufanchiang/Crush-Ice-65fd979437fd4fa9ad1d50ea625e30f3){:target="_blank"}
+[Link to Project Description](https://www.notion.so/liangyufanchiang/Crush-Ice-65fd979437fd4fa9ad1d50ea625e30f3/?target=_blank)
